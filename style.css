@@ -1,0 +1,141 @@
+.wrapper{
+
+}
+.header{
+	/*border:  2px solid red;*/
+	background-color: #473e3e;
+	height: 80px;
+	/*margin-bottom: 2px;*/
+	overflow: hidden;
+	display: block;
+}
+.slider{
+/*border:  2px solid red;
+*/height: 500px;
+	width: auto;
+	overflow: hidden;
+	height: 400px;
+	margin-top: 50px;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url('http://www.orangetreescreening.com/sites/default/files/styles/slideshow_slide_large/public/Orange_Tree_Employment_Screening_Background_Checks_Homepage_ATS-HRIS_Integrations.jpg?itok=Ml3OscuZ');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.logo{
+    /*border: 2px solid red;*/
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+	margin-left: 80px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	float: left;
+}
+form{
+
+	display: inline-block;
+	float: right;
+	margin-right: 80px;
+}
+.username{
+    /*border: 2px solid red;*/
+    float: left;
+	margin-top: 12px;
+	color: white;
+}
+.password{
+	/*border: 2px solid red;*/
+	float: left;
+	margin-top: 12px;
+	margin-left: 10px;
+	color: white;
+}
+.button
+{
+	/*border: 2px solid red;
+	*/float: right;
+	margin-top: 15px;
+	margin-left: 20px;
+	margin-right: 120px;
+	width: 50px;
+	height: 20px;
+	color: white;
+	background-color: #6c6868;
+	/*background-color: #3B5998;*/
+	border:none;
+	cursor: pointer;
+	font-family: Helvetica;
+	font-size: 10px;
+
+}
+.button:hover{
+	background-color: #3B5998;}
+.password p{
+	color: white;
+}
+
+.signup2{
+	/*border: 2px solid red;*/
+	width: 35%;
+	background: linear-gradient(#FDFDFE, #D4D9E9);
+	height: 400px;
+	margin-top: 50px;
+	/*text-align: center;*/
+	margin-left: 10px;
+		margin: 0 auto;
+}
+
+.signup2 h3{
+	text-align: center;
+	color: black;
+}
+.signup2 h5{
+	text-align: center;
+	color: black;
+}
+#btn01{
+	margin-right: 5px;
+	margin-bottom:  2px;
+	height: 30px;
+	width: 150px;
+	background-color: #fcf907;
+	text-align: center;
+	width: 80%;
+	margin-left: 40px;
+}
+#lbl{
+	margin-right: 20px;
+	margin-left: 10px;
+}
+.input{
+	width: 90%;
+	margin-left: 10px;
+}
+.signup2 p{
+	text-align: center;
+}
+.footer{
+	margin-top:20px;
+	/*border: 2px solid red;*/
+	width: 100%;
+	height:50%;
+	background-color:#473e3e; 
+	float: left;
+	overflow: hidden;
+}
+
+.s p{
+	color: white;
+	overflow: hidden;
+	margin-left: 450px;
+	margin-top: 20px;
+}
+.fn{
+	overflow: hidden;
+	float: right;
+	margin-right: 400px;
+	margin-bottom: 20px;
+	margin-top: -2px;
+}
